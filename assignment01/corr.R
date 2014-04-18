@@ -1,4 +1,4 @@
-corr <- function(directory, threshold = 0) {
+corr <- function(directory, threshold = 1) {
     ## 'directory' is a character vector of length 1 indicating
     ## the location of the CSV files
     
